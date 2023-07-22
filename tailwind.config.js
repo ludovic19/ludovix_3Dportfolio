@@ -5,7 +5,7 @@
 // !?! difference between .cjs and .js
 
 // /*eslint-env node*/ //pour convertir
-/*eslint no-undef: "error"*/ // pour prévenir les erreurs si une variable ets non définie (voir le readME 'pblm rencontrés')
+/*eslint no-undef: "error"*/ // pour prévenir les erreurs si une variable ets non définie (voir le readME 'pblm rencontré<s>                                                                                          </s>')
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./src/**/*.{js,jsx}"],

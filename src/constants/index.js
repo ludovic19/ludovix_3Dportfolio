@@ -262,4 +262,4 @@ import {
     },
   ];
   
-  export { services, te
+  export { services, technologies, experiences, testimonials, projects}
